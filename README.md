@@ -4,7 +4,7 @@
 💻 Passionate about front-end & full-stack development  
 🌐 Building projects using React, JavaScript, and the MERN stack  
 📫 Reach me at rcambardella@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/robertcambardella/) • [Portfolio](https://rcambardella.dev) • [GitHub](https://github.com/Rcambardella)
+🔗 [LinkedIn](https://www.linkedin.com/in/robertcambardella/) • [GitHub](https://github.com/Rcambardella)
 
 ---
 
