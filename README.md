@@ -1,8 +1,8 @@
 # Hi, I'm Robert Cambardella 👋
 
 🎓 Computer Science senior at Texas State University (Graduating August 2025)  
-💻 Passionate about front-end & full-stack development  
-🌐 Building projects using React, JavaScript, and the MERN stack  
+💻 Passionate about Data Analysis and Data Science
+🌐 Analyzing Data Using Python and SQL  
 📫 Reach me at rcambardella@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/robertcambardella/) • [GitHub](https://github.com/Rcambardella)
 
