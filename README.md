@@ -24,7 +24,7 @@
 
 ### 🚀 Featured Projects
 
-- [Weather App 🌤️](https://weather-app-nine-ivory-42.vercel.app/)
+- [Home Purchasing Analysis 🌤️](https://github.com/Rcambardella/Home-Purchasing-Analysis)
 - [Bento Grid Layout 🧱](https://github.com/Rcambardella/bento-grid)
 - [Personal Blog 📝](https://github.com/Rcambardella/personal-blog)
 
