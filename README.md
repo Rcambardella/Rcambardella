@@ -25,6 +25,5 @@
 ### 🚀 Featured Projects
 
 - [Home Purchasing Analysis 🌤️](https://github.com/Rcambardella/Home-Purchasing-Analysis)
-- [Bento Grid Layout 🧱](https://github.com/Rcambardella/bento-grid)
-- [Personal Blog 📝](https://github.com/Rcambardella/personal-blog)
+- [Telco Analysis🧱](https://github.com/Rcambardella/Telco-Analysis)
 
